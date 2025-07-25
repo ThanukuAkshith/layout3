@@ -100,8 +100,8 @@ html, body {
 .div10 { grid-area: 10 / 1 / 12 / 2; }
 .div11 { grid-area: 11 / 2 / 13 / 3; }
 .div12 { grid-area: 12 / 1 / 13 / 2; }
-.div13 { grid-area: 13 / 1 / 14 / 2; }  
-.div14 { grid-area: 13 / 2 / 15 / 4; }  
+.div13 { grid-area: 13 / 1 / 14 / 3; }  
+.div14 { grid-area: 14 / 1 / 14 / 3; }  
 
 
 .footer-container{
